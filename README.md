@@ -26,7 +26,7 @@
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> A "Hello Microverse Project"It is simple project that show of my understanding of Gitflow, use of Linters.
+> A "Hello Microverse Project "It is simple project that show of my understanding of Gitflow, use of Linters.
 
 ## 🛠 Built With <a name="built-with"></a>
 
