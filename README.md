@@ -51,17 +51,9 @@
 
 > Key features of the application.
 
-- **[This project has no key feature]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Added a link to my deployed project.
-
-- [Live Demo Link](https://github.com/mar4444/re-hello-world)
+- **[Add html file]**
+- **[Add css file]**
+- **[Set-up Linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,13 +92,6 @@ To run tests, run the following command:
 - npx hint .
 - npx stylelint "\*_/_.{css,scss}"
 
-### Deployment
-
-- Project is deployed using [GitHub Pages](https://pages.github.com/)
-- [🚀 Live Demo Link Provided Above ⬆️](#live-demo)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- AUTHORS -->
 
 ## 👥 Author <a name="authors"></a>
@@ -123,7 +108,11 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Features to be added: This project has no features to be added
+> Features to be added:
+
+- [ ] **[Project: Add nav items]**
+- [ ] **[Project: Add images]**
+- [ ] **[Project: Application responsiveness]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
